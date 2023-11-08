@@ -1,0 +1,23 @@
+.promo {
+    min-height: 563px;
+    background-color: $bg-color;
+    padding-top: 95px;
+    &__buttons {
+        display: flex;
+        justify-content: space-between;
+        width: 387px;
+        margin: 0 auto;
+        margin-top: 95px;
+    }
+    .text {
+        color: #FFF;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 30px;
+        letter-spacing: 0.2px;
+        width: 582px;
+        margin: 0 auto;
+        margin-top: 37px;
+    }
+}

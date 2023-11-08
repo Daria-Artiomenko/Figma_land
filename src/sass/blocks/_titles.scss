@@ -1,0 +1,16 @@
+.title {
+    color: #FFF;
+    font-size: 52px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    &_big {
+        color: #FFF;
+        margin: 0 auto;
+        font-size: 80px;
+        font-weight: 500;
+        line-height: 88px;
+        letter-spacing: 0.2px;
+        width: 709px;
+        text-align: center;
+    }
+}
