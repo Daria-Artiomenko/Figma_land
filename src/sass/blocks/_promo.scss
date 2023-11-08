@@ -21,3 +21,10 @@
         margin-top: 37px;
     }
 }
+.screens {
+    min-height: 689px;
+    background-color: $bg-color;
+    img {
+        width: 100%;
+    }
+}
