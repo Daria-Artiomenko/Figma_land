@@ -1,8 +1,10 @@
 .title {
+    text-align: center;
     color: #FFF;
     font-size: 52px;
     font-weight: 400;
     letter-spacing: 0.2px;
+    text-transform: uppercase;
     &_big {
         color: #FFF;
         margin: 0 auto;
@@ -12,5 +14,14 @@
         letter-spacing: 0.2px;
         width: 709px;
         text-align: center;
+        text-transform: none;
     }
+}
+
+.subtitle {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.1px
 }
