@@ -1,0 +1,14 @@
+.partners {
+    min-height: 485px;
+    background-color: $bg-color;
+    padding: 150px 0 50px 0;
+    &__logos {
+        display: flex;
+        justify-content: center;
+        gap: 70px;
+        margin: 50px 0 50px 0;
+    }
+    &__logo {
+        height: 60px;
+    }
+}
