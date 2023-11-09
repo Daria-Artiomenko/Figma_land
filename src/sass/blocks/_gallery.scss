@@ -1,0 +1,14 @@
+.gallery {
+    min-height: 1016px;
+    background-color: $bg-color;
+    padding: 50px 0 50px 0;
+    &__block {
+        display: flex;
+        justify-content: center;
+        gap: 33px;
+        margin-top: 44px;
+    }
+    &__img {
+        border-radius: 12px;
+    }
+}

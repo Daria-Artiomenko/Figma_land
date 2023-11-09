@@ -10,6 +10,7 @@
     }
     &__block {
         padding: 40px 0 0 40px;
+        border-radius: 10px;
         width: 476px;
         height: 627px;
         padding: 40px 0px;
@@ -26,5 +27,8 @@
     &__img {
         margin-top: 57px;
         width: 405px;
+    }
+    &__img-br {
+        border-radius: 14px;
     }
 }
