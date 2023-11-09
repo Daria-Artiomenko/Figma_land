@@ -16,6 +16,12 @@
         text-align: center;
         text-transform: none;
     }
+    &_right {
+        text-transform: none;
+        text-align: left;
+        line-height: 62px;
+        margin-bottom: 37px;
+    }
 }
 
 .subtitle {
